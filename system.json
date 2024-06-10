@@ -43,7 +43,7 @@
     ],
     "background": "systems/neph5e/assets/core/acceuil.jpg",
     "socket": true,
-    "url": "https://github.com/rlepennec/neph5",
+    "url": "https://github.com/nlou77/neph5Arcadia",
     "manifest": "https://github.com/nlou77/neph5Arcadia/blob/main/system.json",
     "download": "https://github.com/nlou77/neph5Arcadia/blob/main/system.zip",
     "license": "license.txt"
