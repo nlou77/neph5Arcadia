@@ -200,6 +200,7 @@
                 "bohemien": false,
                 "nephilim": true,
                 "vecus": true,
+                "arcadia": true,
                 "selenim": true,
                 "akasha": true,
                 "boussole": true,
@@ -400,6 +401,11 @@
             "id": null,
             "competences": [],
             "periode": null
+        },
+        "arcadia": {
+            "id": null,
+            "quadrant": ["Ponant","Septentrion","Midi","Orient","Omphale","Zénith","Nadir"],
+            "Vécu": null
         }
     }
 }
